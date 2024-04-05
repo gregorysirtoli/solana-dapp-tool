@@ -17,10 +17,6 @@ export const AppBar: FC = (props: any) => {
       link: "#features",
     },
     {
-      name: "Home",
-      link: "#home",
-    },
-    {
       name: "Price",
       link: "#price",
     },
